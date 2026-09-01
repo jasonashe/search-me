@@ -6,7 +6,9 @@ api-keys.txt
 
 # Derived: regenerate with tools/build_index.py and tools/build_canon.py.
 # canon.json is the exception — it is small and the packs are built from it.
-build/
+# NB: "build/" would exclude the directory itself, and git will not re-include a
+# file inside an excluded directory — so the contents are excluded instead.
+build/*
 !build/canon.json
 experiments/cache/
 

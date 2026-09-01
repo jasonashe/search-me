@@ -9,6 +9,8 @@ practice Claude Cowork, working from this repository — write one good analysis
 paragraph of the text, with every Tibetan quotation verified against the file it came
 from.
 
+Published at <https://github.com/jasonashe/search-me>.
+
 ## Start here
 
 | | |

@@ -48,7 +48,7 @@ merge. `paragraphs.json` is the canonical text.
 | `Commentaries/` | 81 MB | the 46 commentary texts, unchanged, with `commentary_names.json` |
 | `Kangyur/`, `Tengyur/`, `Sungbum/`, `རྗེ་ཙོང་ཁ་པ། ཡབ་སྲས། Sungbum/` | 964 MB | the rest of the archive — 2,388 files. Large on disk, **roughly 120 MB in the clone**: Tibetan text deflates about eight to one, and git stores it deflated |
 | `packs/` | 33 MB | **426 evidence packs**, one per paragraph — the thing that makes this work |
-| `build/canon.json` | <1 MB | where each paragraph's citations sit in the canon, precomputed |
+| `build/canon.json` | 2.8 MB | where each paragraph's citations sit in the collections, precomputed — 2,966 locations across 275 of the 426 paragraphs |
 | `paragraphs.json` | 1.2 MB | the canonical 426 paragraphs and the 687-entry outline |
 | `tools/` | 280 KB | thirteen scripts (§4) |
 | `example/` | 36 KB | the worked example: `p80.md` and `p80.json` |
@@ -312,6 +312,15 @@ distinguishes them, so nothing about the old records had to be migrated.
 | file | change |
 |---|---|
 | `sources.json` *(new)* | where the collections live. Paths relative to the repository or absolute, searched before its own copies. This exists so a gigabyte does not have to be duplicated |
+
+**How the two repositories are wired together right now.** This one sits at
+`/Users/tegchok/search-me`; the viewer at `/Users/tegchok/སྐབས་དང་པོ།-viewer`. The
+viewer's `sources.json` points at `../search-me/Kangyur`, `../search-me/Tengyur`,
+`../search-me/Sungbum` and `../search-me/རྗེ་ཙོང་ཁ་པ། ཡབ་སྲས། Sungbum`, so the collections
+are read from here rather than copied. Relative paths there are resolved **against the
+viewer's own root, not the working directory**, so the tools behave the same whatever
+directory they are invoked from. If either repository moves, that one file is what needs
+changing.
 | `tools/quotes.py` | `source_for(name)` resolves such a path and opens it **lazily** — there are 2,388 of these files, and enumerating them the way `sources()` enumerates the commentaries would read a gigabyte into memory on every invocation |
 | `tools/quotebank.py` | accepts them, derives title/collection/volume from the path, files them under a per-collection slug |
 | `app/main.js` | `resolveSource()` maps a record's `file` to a real path across the configured roots, keeping the existing containment check — `Tengyur/../../etc/passwd` is refused |

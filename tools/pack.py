@@ -39,13 +39,23 @@ YIGCHA = 'རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མ�
 class Retrievers:
     def __init__(self, cache=None):
         import pickle
+        needed = ('index.pkl', 'topical.pkl', 'aligns.pkl', 'offsets.json')
         if cache is None:
             # only prefer build/ once it is complete — a half-finished rebuild
             # must not be picked up silently
-            complete = all(os.path.exists(os.path.join('build', n)) for n in
-                           ('index.pkl', 'topical.pkl', 'aligns.pkl',
-                            'offsets.json'))
+            complete = all(os.path.exists(os.path.join('build', n))
+                           for n in needed)
             cache = 'build' if complete else 'experiments/cache'
+        missing = [n for n in needed
+                   if not os.path.exists(os.path.join(cache, n))]
+        if missing:
+            raise SystemExit(
+                f'{cache}/ is missing {", ".join(missing)}.\n'
+                'The indexes are derived and are not committed — the packs in '
+                'packs/ are.\nYou only need these to *rebuild* the packs:\n'
+                '    python3 tools/build_index.py     # ~10 min\n'
+                '    python3 tools/build_canon.py     # ~12 min\n'
+                '    python3 tools/build_packs.py     # ~6 min')
         sh = pickle.load(open(os.path.join(cache, 'index.pkl'), 'rb'))
         tp = pickle.load(open(os.path.join(cache, 'topical.pkl'), 'rb'))
         raw = pickle.load(open(os.path.join(cache, 'aligns.pkl'), 'rb'))

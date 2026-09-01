@@ -1,0 +1,27 @@
+# Secrets — never commit. The key file lives in this directory but stays local.
+api-keys.txt
+*api-key*
+*.pem
+.env
+
+# Derived: regenerate with tools/build_index.py and tools/build_canon.py.
+# canon.json is the exception — it is small and the packs are built from it.
+build/
+!build/canon.json
+experiments/cache/
+
+# The old 50,000-candidate quote pool. Four in five of its entries are not in
+# the file they name; retrieval was rebuilt from the sources instead, so nothing
+# here depends on it. See FINDINGS.md §1.
+quotes/
+
+# A stale segmentation of the root text: 397 rows against the viewer's 426, and
+# character offsets that do not match. paragraphs.json is the canonical one.
+paragraphs.tsv
+
+# The task brief this work was done against — local context, not part of the set-up.
+EXPERIMENT-PROMPT.md
+
+__pycache__/
+*.pyc
+.DS_Store

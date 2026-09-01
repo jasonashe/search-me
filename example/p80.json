@@ -1,0 +1,65 @@
+{
+  "paragraph": "p80",
+  "quotes": [
+    {
+      "file": "Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)/TD03824_DBU MA RTZA BA'I TSIG LE'UR BYAS PA SHES RAB CES BYA BA (Prajñā Nāma Mūla Madhyamaka Kārikā)_unicode.txt",
+      "text": "བདག་ལས་མ་ཡིན་གཞན་ལས་མིན། །གཉིས་ལས་མ་ཡིན་རྒྱུ་མེད་མིན། །དངོས་པོ་གང་དག་གང་ན་ཡང། །སྐྱེ་བ་ནམ་ཡང་ཡོད་མ་ཡིན། །",
+      "citation": "དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ། I.1 — the treatise's first verse, immediately after the eight-negation homage",
+      "why": "Nāgārjuna's own words, in the root text rather than in any of the three commentaries that quote them here. This is the verse the paragraph cites."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དབུ་མའི་སྤྱི་དོན།.txt",
+      "text": "གཉིས་པ་དེ་འགོག་བྱེད་ཀྱི་རིགས་པ་བཤད་པ་ནི། བདེན་མེད་གཏན་ལ་འབེབས་པའི་རིགས་པ་དེ་ལ་དུ་མ་ཡོད་དེ། ཐལ་འགྱུར་གྱི་དབང་དུ་བྱས་པ་དང་། གཏན་ཚིགས་ཀྱི་དབང་དུ་བྱས་པ་གཉིས། དང་པོ་ལ། གཞན་ལ་གྲགས་ཀྱི་རྗེས་དཔག་སྐྱེད་བྱེད་ཀྱི་ཐལ་འགྱུར།",
+      "citation": "དབུ་མའི་སྤྱི་དོན། — བདེན་མེད་འགོག་བྱེད་ཀྱི་རིགས་པ་བཤད་པའི་སྐབས།",
+      "why": "Chökyi Gyaltsen's own Madhyamaka textbook opens the same topic with a division this paragraph does not make: consequences first, probative reasons second. What p80 calls the whole is there only the second half."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དབུ་མའི་སྤྱི་དོན།.txt",
+      "text": "གཏན་ཚིགས་ཀྱི་དབང་དུ་བྱས་པ་ལ་དུ་མ་ཡོད་དེ། ཆོས་རྣམས་ཀྱི་ངོ་བོ་ལ་དཔྱོད་པ་གཅིག་དུ་བྲལ་གྱི་གཏན་ཚིགས། རྒྱུ་ལ་དཔྱོད་པ་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས། འབྲས་བུ་ལ་དཔྱོད་པ་ཡོད་མེད་སྐྱེ་འགོག་གི་གཏན་ཚིགས། རྒྱུ་འབྲས་གཉིས་ཀ་ལ་དཔྱོད་པ་མུ་བཞིའི་སྐྱེ་འགོག་གི་གཏན་ཚིགས།",
+      "citation": "དབུ་མའི་སྤྱི་དོན། — the same enumeration, one level down",
+      "why": "The same author's list of the five probative reasons, word for word as in this paragraph, showing that p80 is transplanting a settled Madhyamaka schema rather than devising one."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དབུ་མའི་སྤྱི་དོན།.txt",
+      "text": "དེ་རྣམས་ཀྱི་ནང་ནས་འཕགས་པ་ཡབ་སྲས་ཀྱིས་གཙོ་བོར་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས་ཀྱི་སྒོ་ནས་བདེན་མེད་གཏན་ལ་འབེབས་པར་མཛད་པ་ཡིན་ཏེ། རྩ་ཤེའི་རབ་བྱེད་དང་པོར།",
+      "citation": "དབུ་མའི་སྤྱི་དོན། — why the vajra-sliver is taken second",
+      "why": "Chökyi Gyaltsen's reason for the ordering: Nāgārjuna and Āryadeva themselves establish emptiness principally by the vajra-sliver, which is why this paragraph takes it up before the other three."
+    },
+    {
+      "file": "རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_དབུ་མའི་སྤྱི་དོན།.txt",
+      "text": "ཞེས་སོགས་ཀྱིས་ཀྱང་མཐའ་བཞི་ལས་སྐྱེ་བ་མེད་པའི་དམ་བཅའ་ཙམ་ཞིག་བསྟན་པ་ཡིན་གྱི་མཐའ་བཞི་ལས་མི་སྐྱེ་བ་རྟགས་སུ་བཀོད་ནས་དངོས་པོ་རྣམས་རང་བཞིན་གྱིས་སྐྱེ་བ་མེད་པར་སྒྲུབ་པའི་རྟགས་ཡང་དག་བསྟན་པ་མ་ཡིན་ཏེ། རང་འགྲེལ་ལས།",
+      "citation": "དབུ་མའི་སྤྱི་དོན། — on what the root verse does and does not do",
+      "why": "The same author says the verse states only the thesis and does not set out a valid probative reason — which is not obviously what this paragraph does with it. This is the sharpest tension in the passage."
+    },
+    {
+      "file": "སེང་གེ་བཟང་པོ་_འགྲེལ་པ་དོན་གསལ།.txt",
+      "text": "གཅིག་དང་དུ་མའི་ངོ་བོ་ཉིད་དང་བྲལ་བའི་ཕྱིར་ཞེས་བྱ་བ་ལ་སོགས་པའི་ཚད་མས་གཞི་དང་ལམ་དང་རྣམ་པ་སྐྱེ་བ་མེད་པར་ཡོངས་སུ་ཤེས་པ་ཚིགས་སུ་བཅད་པའི་དོན་གྱི་མཚན་ཉིད་ཀྱི་",
+      "citation": "འགྲེལ་པ་དོན་གསལ། — near the opening, on how ground, path and aspects are known to be unproduced",
+      "why": "Haribhadra's own words are where this excursus attaches: the reasonings are named here as 'free from being one or many, and so forth'. The paragraph is unpacking his 'and so forth'."
+    },
+    {
+      "file": "ཆོས་ཀྱི་བཤེས་གཉེན་_འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ།.txt",
+      "text": "སོགས་པ་ཞེས་བྱ་བ་ནི་རྡོ་རྗེ་གཟེགས་མར། རང་ལས་མ་ཡིན་གཞན་ལས་མིན། ། གཉི་ག་ལས་མིན་རྒྱུ་མེད་མིན། ། དངོས་པོ་གང་དང་གང་ལ་ཡང་། ། སྐྱེ་བ་ནམ་ཡང་ཡོད་མ་ཡིན། ། ཞེས་བྱ་བ་དང་།",
+      "citation": "འགྲེལ་བཤད་ཚིག་རབ་ཏུ་གསལ་བ། — glossing Haribhadra's 'and so forth'",
+      "why": "Dharmamitra unpacks Haribhadra's 'and so forth' as the vajra-sliver — quoting the very verse this paragraph quotes — then dependent origination and the four-alternative refutation. The Indian precedent for the paragraph's list."
+    },
+    {
+      "file": "རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་_རྣམ་བཤད་སྙིང་པོའི་རྒྱན།.txt",
+      "text": "གཞི་ལམ་རྣམ་གསུམ་སྐྱེ་མེད་དུ་ཚད་མ་གང་གིས་གྲུབ་ཅེ་ན། གཅིག་དང་དུ་མའི་ངོ་བོ་ཉིད་དང་བྲལ་བའི་ཕྱིར་ཅེས་བྱ་བ་དང་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས་ལ་སོགས་པའི་རྟགས་ལ་བརྟེན་པའི་ཚད་མས་དང་པོར་ཚོགས་ལམ་གྱི་གནས་སྐབས་སུ་གྲུབ་ཅིང་།",
+      "citation": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན། — on the same lemma",
+      "why": "Gyaltsab poses exactly the question this excursus answers and gives the same two reasons, adding the curricular point that this establishment happens first at the path of accumulation."
+    },
+    {
+      "file": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt",
+      "text": "ངོ་བོ་ལ་དཔྱོད་པ་གཅིག་དང་དུ་བྲལ་གྱི་གཏན་ཚིགས། རྒྱུ་ལ་དཔྱོད་པ་རྡོ་རྗེ་གཟེགས་མའི་གཏན་ཚིགས། འབྲས་བུ་ལ་དཔྱོད་པ་ཡོད་མེད་སྐྱེ་འགོག་གི་གཏན་ཚིགས་སོ། །",
+      "citation": "ལུང་རིགས་ཀྱི་རོལ་མཚོ། — the same schema, with three members",
+      "why": "Ngok Lotsāwa, four centuries earlier and outside this curriculum, has the same classification by what each reason examines — but stops at three. The list this paragraph gives has grown."
+    },
+    {
+      "file": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་_ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ།.txt",
+      "text": "དེ་ལྟར་ཡང་དབུ་མའི་རྩ་བ་ལས། བདག་ལས་མ་ཡིན་གཞན་ལས་མིན། ། གཉིས་ལས་མ་ཡིན་རྒྱུ་མེད་མིན། ། དངོས་པོ་གང་དག་གང་ན་ཡང་། ། སྐྱེ་བ་ནམ་ཡང་ཡོད་མ་ཡིན། ཞེས་སོ། །",
+      "citation": "ལེགས་བཤད་གསེར་ཕྲེང་སྟོད་ཆ། — closing the four-alternative refutation",
+      "why": "Tsongkhapa reaches the same verse inside the Ornament commentary itself, and reaches it the way this paragraph does: as the scriptural seal on a refutation already argued out alternative by alternative."
+    }
+  ]
+}

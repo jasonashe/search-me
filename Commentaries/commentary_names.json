@@ -569,5 +569,53 @@
     "tier_note": "Tier 5 — everything else.",
     "language": "tibetan",
     "attribution_confidence": "verified-from-text"
+  },
+  "མི་ཕམ་_པུཎྜ་རི་ཀའི་དོ་ཤལ.txt": {
+    "source_file": "OpenPecha-Data IB514CC48 (Mipham gsung 'bum) I1PD34660.txt lines 2873-4871",
+    "display_name": "མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ་'s པུཎྜ་རི་ཀའི་དོ་ཤལ།",
+    "author": "མི་ཕམ་འཇམ་དབྱངས་རྣམ་རྒྱལ་རྒྱ་མཚོ་",
+    "author_info": "Mipham Rinpoche (1846–1912), the Nyingma scholar whose works systematized the Nyingma presentation of the thirteen great texts. His Pundarika's Necklace is the principal Nyingma commentary on the Abhisamayalamkara.",
+    "title": "ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་གྱི་མཆན་འགྲེལ་པུཎྜ་རི་ཀའི་དོ་ཤལ།",
+    "text_info": "Mipham's interlinear commentary on the Abhisamayalamkara, the main Nyingma Parchin commentary. From his gsung 'bum vol. 14. Note: this etext was OCR'd (Google Vision) and contains some OCR artifacts.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
+  },
+  "བོད་སྤྲུལ་_མ་ཕམ་ཞལ་ལུང.txt": {
+    "source_file": "OpenPecha-Data I71BE2C7C I1KG13089.txt lines 4346-5223",
+    "display_name": "བོད་སྤྲུལ་མདོ་སྔགས་བསྟན་པའི་ཉི་མ་'s མ་ཕམ་ཞལ་ལུང་།",
+    "author": "བོད་སྤྲུལ་མདོ་སྔགས་བསྟན་པའི་ཉི་མ་",
+    "author_info": "Pöpa Tulku Dongak Tenpe Nyima (20th century), Nyingma scholar. His oral transmission on Mipham's commentary explains the words and meaning of the Ornament.",
+    "title": "ཤེར་ཕྱིན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་དོན་རྣམ་པར་བཤད་པ་མ་ཕམ་ཞལ་ལུང།",
+    "text_info": "Pöpa Tulku's explanation of the words and meaning of the Abhisamayalamkara, following Mipham's oral transmission. Proofread (Harvard Norbu Ketaka project). Note: the etext ends abruptly; the colophon appears to be missing from the source.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
+  },
+  "གོ་རམས་པ་_ཡུམ་དོན་རབ་གསལ.txt": {
+    "source_file": "OpenPecha-Data P5838C333 (Gorampa gsung 'bum) v006.txt lines 12-4475",
+    "display_name": "གོ་རམས་པ་བསོད་ནམས་སེང་གེ་'s ཡུམ་དོན་རབ་གསལ།",
+    "author": "གོ་རམས་པ་བསོད་ནམས་སེང་གེ་",
+    "author_info": "Gorampa Sonam Senge (1429–1489), the Sakya scholar whose works define the Sakya presentation of Madhyamaka and Prajnaparamita. His Yum don rab gsal (1464) is the principal Sakya commentary on the Abhisamayalamkara.",
+    "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམ་པར་བཤད་པ་ཡུམ་དོན་རབ་གསལ།",
+    "text_info": "Gorampa's commentary on the Abhisamayalamkara with Haribhadra's commentary, explaining the difficult points. Composed in 1464 at Skyed mos tshal; colophon confirms authorship. The principal Sakya Parchin commentary.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
+  },
+  "ཀརྨ་འཕྲིན་ལས་པ་_འཇིག་རྟེན་གསུམ་སྒྲོན.txt": {
+    "source_file": "dharmaebooks.org EPUB (Nitartha Shes rig dpe skrun khang, 2021 ebook edition)",
+    "display_name": "ཀརྨ་འཕྲིན་ལས་པ་'s འཇིག་རྟེན་གསུམ་སྒྲོན་ལ་འཇུག་པ།",
+    "author": "ཀརྨ་འཕྲིན་ལས་པ་",
+    "author_info": "Karma Thinleypa (1456–1539), Kagyu scholar. His introduction to the Lamp of the Three Worlds is a Kagyu presentation of the Abhisamayalamkara following the 7th Karmapa's tradition.",
+    "title": "མངོན་རྟོགས་རྒྱན་གྱི་སྦྱོར་ཊཱིཀ་འཇིག་རྟེན་གསུམ་གྱི་སྒྲོན་མེ་ལ་འཇུག་པ།",
+    "text_info": "Karma Thinleypa's introductory commentary (sbyor tika) to the 'jig rten gsum sgron, the Kagyu Abhisamayalamkara tradition. Modern typeset edition (Nitartha, 2021); clean Unicode Tibetan.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
   }
 }

@@ -436,15 +436,16 @@
   },
   "སངས་རྒྱས་ཡེ་ཤེས་ཞབས་_ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ།.txt": {
     "source_file": "mngon_rtogs_rgyan_prajna_lamp_garland_commentary.txt",
-    "display_name": "སངས་རྒྱས་ཡེ་ཤེས་ཞབས་'s ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ།",
-    "author": "སངས་རྒྱས་ཡེ་ཤེས་ཞབས་",
-    "author_info": "Buddhaśrījñāna (སངས་རྒྱས་ཡེ་ཤེས་ཞབས), an Indian master of the Pāla period credited with the ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ། commentary on the Ornament. One of the twenty-one Indian commentaries the Gelug curriculum recognises.",
-    "title": "ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ།",
-    "text_info": "The Prajñāpradīpāvalī, a commentary on the Ornament; the title is confirmed on the file's own title page, the authorship follows the Tengyur attribution.",
+    "display_name": "Composite: Buddhaśrījñāna, Ratnākaraśānti & Dharmaśrī (catalogued as ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ།)",
+    "author": "སངས་རྒྱས་ཡེ་ཤེས་ཞབས་; རིན་ཆེན་འབྱུང་གནས་ཞི་བ་; དྷརྨ་ཤྲཱི་",
+    "author_info": "This file contains three texts: (1) Buddhaśrījñāna's ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ། (Prajñāpradīpāvalī); (2) Ratnākaraśānti's (རིན་ཆེན་འབྱུང་གནས་ཞི་བ་) མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་དག་ལྡན། (Śuddhamati); (3) the Śatasāhasrikā commentary སྟོང་ཕྲག་བརྒྱ་པའི་རྣམ་པར་བཤད་པ་ reputed to be by the Kashmiri paṇḍita Dharmaśrī (colophon: 'འདི་ནི་ཁ་ཆེའི་པཎྜི་ཏ་དྷརྨ་ཤྲཱིས་མཛད་དོ་ཞེས་གྲག་གོ།').",
+    "title": "ཤེས་རབ་སྒྲོན་མའི་ཕྲེང་བ།; མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་དག་ལྡན།; སྟོང་ཕྲག་བརྒྱ་པའི་རྣམ་པར་བཤད་པ།",
+    "text_info": "Composite file of three Indian commentaries: (1) Buddhaśrījñāna's Prajñāpradīpāvalī (chars 0-224650); (2) Ratnākaraśānti's Śuddhamati commentary on the Ornament (chars 224650-643553); (3) the Śatasāhasrikā explanation reputed to be Dharmaśrī's (chars 643934-866428), which contains the paṇḍita-kusulu passage and the prose line cited by Tsongkhapa/Jetsun Chökyi Gyaltsen in the debate over its Indian authorship. Citations from the third section should not be credited to Buddhaśrījñāna.",
     "tier": 4,
     "tier_note": "Tier 4 — Indian commentaries.",
     "language": "tibetan",
-    "attribution_confidence": "inferred"
+    "attribution_confidence": "verified-from-text",
+    "notes": "COMPOSITE FILE — three texts by three authors. The catalogue's single-author attribution was inferred from the first text's title page only."
   },
   "ཀུན་མཁྱེན་འཇམ་དབྱངས་བཞད་པ་_དོན་བདུན་ཅུ་དང་རྣམ་པ་བརྒྱ་བདུན་ཅུ་རྩ་གསུམ་དབྱིན་འགྱུར།.txt": {
     "source_file": "JYZP_70Topics_KJW_173_Aspects_fixed.txt",

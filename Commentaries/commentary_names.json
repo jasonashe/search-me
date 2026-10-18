@@ -558,5 +558,17 @@
     "language": "tibetan",
     "attribution_confidence": "uncertain",
     "notes": "AUTHOR NOT VERIFIED — the title ལུང་རིགས་ཀྱི་རོལ་མཚོ། is confirmed from the file, the author is not. The file also carries a source URL and a དཀར་ཆག of eight volumes (ཀ–ཉ) at the head."
+  },
+  "དོལ་པོ་པ་_ཕར་ཕྱིན་མདོ་ལུགས་མ.txt": {
+    "source_file": "OpenPecha P4D4DC90E v005.txt lines 417-1214 (Dzam-thang blockprint)",
+    "display_name": "དོལ་པོ་པ་ཤེས་རབ་རྒྱལ་མཚན་'s ཕར་ཕྱིན་མདོ་ལུགས་མ།",
+    "author": "དོལ་པོ་པ་ཤེས་རབ་རྒྱལ་མཚན་",
+    "author_info": "Dolpopa Sherap Gyaltsen (1292–1361), founder of the Jonang tradition and principal exponent of gzhan stong (other-emptiness). His Prajnaparamita commentaries are the major Jonang statement on the Perfection of Wisdom, reading the sutras and Maitreya's Ornament through the gzhan stong lens. He attributes the Yum gsum gnod 'joms (Brihattika, Toh 3808) to the Madhyamaka master Vasubandhu.",
+    "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མདོ་ལུགས་མ།",
+    "text_info": "Commentary on Maitreya's Abhisamayalamkara (Ornament of Clear Realization) — Dolpopa's main Parchin treatise. 2011 Beijing gsung 'bum vol. 4, item 4.1. The passage discussing Vasubandhu's authorship of the Yum gsum gnod 'joms is at the beginning of this text.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
   }
 }

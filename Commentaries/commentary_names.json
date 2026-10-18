@@ -546,19 +546,6 @@
     "attribution_confidence": "verified-from-text",
     "notes": "Mis-filed in the archive under Jetsun Chökyi Gyaltsen's gsung 'bum. Author corrected from the file's own running head."
   },
-  "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt": {
-    "source_file": "ngok_lotsawa_text.txt",
-    "display_name": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་'s ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
-    "author": "རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་",
-    "author_info": "Ngok Lotsawa Loden Sherab (1059–1109), the translator whose Sangphu lineage established the scholastic study of the Perfection of Wisdom in Tibet — the tradition the Gelug colleges, Sera Jey among them, inherited. NOTE: this attribution comes from the archive's own filename, not from the file's title page, which gives only the title ལུང་རིགས་ཀྱི་རོལ་མཚོ།. Verify against the colophon before relying on the author.",
-    "title": "ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
-    "text_info": "An extensive commentary explaining the difficult points of the Ornament together with its commentary and distinguishing one's own and others' tenets. Its title page gives the title but not the author; the attribution to Ngok Lotsawa comes from the archive's filename alone and should be checked against the colophon.",
-    "tier": 5,
-    "tier_note": "Tier 5 — everything else.",
-    "language": "tibetan",
-    "attribution_confidence": "uncertain",
-    "notes": "AUTHOR NOT VERIFIED — the title ལུང་རིགས་ཀྱི་རོལ་མཚོ། is confirmed from the file, the author is not. The file also carries a source URL and a དཀར་ཆག of eight volumes (ཀ–ཉ) at the head."
-  },
   "དོལ་པོ་པ་_ཕར་ཕྱིན་མདོ་ལུགས་མ.txt": {
     "source_file": "OpenPecha P4D4DC90E v005.txt lines 417-1214 (Dzam-thang blockprint)",
     "display_name": "དོལ་པོ་པ་ཤེས་རབ་རྒྱལ་མཚན་'s ཕར་ཕྱིན་མདོ་ལུགས་མ།",
@@ -566,6 +553,18 @@
     "author_info": "Dolpopa Sherap Gyaltsen (1292–1361), founder of the Jonang tradition and principal exponent of gzhan stong (other-emptiness). His Prajnaparamita commentaries are the major Jonang statement on the Perfection of Wisdom, reading the sutras and Maitreya's Ornament through the gzhan stong lens. He attributes the Yum gsum gnod 'joms (Brihattika, Toh 3808) to the Madhyamaka master Vasubandhu.",
     "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མདོ་ལུགས་མ།",
     "text_info": "Commentary on Maitreya's Abhisamayalamkara (Ornament of Clear Realization) — Dolpopa's main Parchin treatise. 2011 Beijing gsung 'bum vol. 4, item 4.1. The passage discussing Vasubandhu's authorship of the Yum gsum gnod 'joms is at the beginning of this text.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
+  },
+  "ཤཱཀྱ་མཆོག་ལྡན་_ལུང་རིགས་ཀྱི་རོལ་མཚོ།.txt": {
+    "source_file": "ngok_lotsawa_text.txt",
+    "display_name": "ཤཱཀྱ་མཆོག་ལྡན་'s ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+    "author": "ཤཱཀྱ་མཆོག་ལྡན་",
+    "author_info": "Shakya Chokden (གསེར་མདོག་པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་, 1428–1507), the Sakya scholar of Serdokchen monastery. His Lung rigs kyi rol mtsho is his major Prajnaparamita work, explaining the difficult points of the Ornament with its commentary and distinguishing own and others' tenets. Previously misattributed to Ngok Lotsawa in this archive from the filename alone.",
+    "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པའི་དཀའ་བའི་གནས་རྣམས་རྣམ་པར་བཤད་ནས་རང་གཞན་གྱི་གྲུབ་པའི་མཐའ་རྣམ་པར་དབྱེ་བ་ལུང་རིགས་ཀྱི་རོལ་མཚོ།",
+    "text_info": "Shakya Chokden's extensive Prajnaparamita commentary explaining the difficult points of the Ornament together with its commentary (Haribhadra's) and distinguishing his own and others' tenets. The full title is confirmed from bibliographic sources; the file's title page gives the short title ལུང་རིགས་ཀྱི་རོལ་མཚོ།.",
     "tier": 5,
     "tier_note": "Tier 5 — everything else.",
     "language": "tibetan",

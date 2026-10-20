@@ -367,12 +367,12 @@
     "author": "མཆེ་བའི་སྡེ་",
     "author_info": "Daṃṣṭrāsena (མཆེ་བའི་སྡེ), author of the great Bṛhaṭṭīkā commentaries on the long Perfection of Wisdom sūtras. His work is the main Indian source for the sūtra-side (as opposed to Ornament-side) exegesis that Gelug commentators draw on when correlating the Ornament with the sūtras.",
     "title": "འབུམ་ཊཱིཀ།",
-    "text_info": "The Śatasāhasrikā Bṛhaṭṭīkā. This is very likely the same work as མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།.txt in a different edition or extent — the file sizes differ, so they are not byte-identical.",
+    "text_info": "The second half of the Śatasāhasrikā Bṛhaṭṭīkā (གནོད་འཇོམས). The file begins mid-commentary on chapter 24, with no title page, and runs through the work's final closing colophon; chapter markers in the file run 27–49. Together with མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།.txt (chapters 1–23) it forms the complete 51-chapter text.",
     "tier": 4,
     "tier_note": "Tier 4 — Indian commentaries.",
     "language": "tibetan",
     "attribution_confidence": "inferred",
-    "notes": "Probable duplicate of the other Daṃṣṭrāsena file; compare the two before running both through the quote-finder."
+    "notes": "NOT a duplicate of འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།: the two files are complementary halves of one work, and both are needed for quote-finding. An earlier note here calling this file a probable duplicate was withdrawn on 2026-10-19 after direct checks of both files."
   },
   "མཆེ་བའི་སྡེ་_འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།.txt": {
     "source_file": "prajnaparamita_100000_extensive_commentary.txt",
@@ -380,7 +380,7 @@
     "author": "མཆེ་བའི་སྡེ་",
     "author_info": "Daṃṣṭrāsena (མཆེ་བའི་སྡེ), author of the great Bṛhaṭṭīkā commentaries on the long Perfection of Wisdom sūtras. His work is the main Indian source for the sūtra-side (as opposed to Ornament-side) exegesis that Gelug commentators draw on when correlating the Ornament with the sūtras.",
     "title": "འབུམ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
-    "text_info": "The Bṛhaṭṭīkā on the 100,000-line sūtra; its own opening verse names it གནོད་འཇོམས་. Title confirmed from the file's title page.",
+    "text_info": "The Bṛhaṭṭīkā on the 100,000-line sūtra; its own opening verse names it གནོད་འཇོམས་. Title confirmed from the file's title page. This file covers chapters 1–23; the second half of the work (from mid-chapter 24 through the final colophon) is མཆེ་བའི་སྡེ་_འབུམ་ཊཱིཀ།.txt.",
     "tier": 4,
     "tier_note": "Tier 4 — Indian commentaries.",
     "language": "tibetan",
@@ -618,5 +618,18 @@
     "tier_note": "Tier 5 — everything else.",
     "language": "tibetan",
     "attribution_confidence": "verified-from-text"
+  },
+  "དགེ་བཤེས་དཔལ་ལྡན་གྲགས་པ་_རིགས་ལམ་སྦྱོང་ཚུལ་འཕྲུལ་གསར་འོད་རླབས།.txt": {
+    "source_file": "Publisher's PDF (2022 Taiwan Loseling edition), text layer extracted and cleaned 2026-10-20",
+    "display_name": "དགེ་བཤེས་དཔལ་ལྡན་གྲགས་པ་'s རིགས་ལམ་སྦྱོང་ཚུལ་འཕྲུལ་གསར་འོད་རླབས།",
+    "author": "དགེ་བཤེས་དཔལ་ལྡན་གྲགས་པ་",
+    "author_info": "Geshe Palden Drakpa of Drepung Loseling (བློ་གླིང་དགེ་བཤེས་དཔལ་ལྡན་གྲགས་པ), a contemporary independent textbook author. This volume was compiled from the tshad ma (ཚད་མ་) teachings he gave in 2015 at the Taiwan Loseling Dharma centre at the Dalai Lama's behest, worked up from the Chinese volumes of those teachings back into Tibetan.",
+    "title": "རིགས་ལམ་སྦྱོང་ཚུལ་འཕྲུལ་གསར་འོད་རླབས།",
+    "text_info": "A modern tshad ma textbook (པོད་ལྔ་པ, published 2022) covering the full junior curriculum in one volume: bsdus grwa (Collected Topics), blo rig (Awakening Mind / types of cognition) and rtags rigs (Signs and Reasonings). Text extracted from the publisher's born-digital PDF: running headers and page numbers removed and split syllables rejoined; a small residue of PDF extraction artifacts remains, so quotations should still be checked against the printed book.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text",
+    "notes": "Added 2026-10-20 at the archive owner's request. A full English translation of this text was prepared from the same PDF in October 2026."
   }
 }

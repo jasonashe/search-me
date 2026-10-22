@@ -22,7 +22,7 @@ Published at <https://github.com/jasonashe/search-me>.
 
 ## What is in it
 
-- `Commentaries/` — 46 commentary texts, 81 MB, with author, title and tier for each
+- `Commentaries/` — 52 commentary texts, 92 MB, with author, title and tier for each
 - `Kangyur/`, `Tengyur/`, `Sungbum/`, `རྗེ་ཙོང་ཁ་པ། ཡབ་སྲས། Sungbum/` — 2,388 more source
   files. Every one of them is quotable, and every quotation links back to its own text
 - `packs/` — **426 evidence packs**, one per paragraph: the paragraph and its neighbours,

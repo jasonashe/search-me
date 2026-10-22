@@ -54,14 +54,20 @@ _cache = {}
 
 
 def source_path(filename):
-    """Where a quotation's `file` actually is, or None."""
+    """Where a quotation's `file` actually is, or None.
+
+    A quote file written on macOS may name the source in NFD form while the
+    checkout stores it NFC, so the root check compares normalised names and
+    the path itself is resolved through T.resolve_path rather than a naive
+    os.path.exists().
+    """
     name = filename.replace('\\', '/')
     if '/' in name:
-        if name.split('/', 1)[0] not in CANON_ROOTS:
+        if T.norm_name(name.split('/', 1)[0]) not in \
+                {T.norm_name(r) for r in CANON_ROOTS}:
             return None
-        return name if os.path.exists(name) else None
-    full = os.path.join(SOURCES, name)
-    return full if os.path.exists(full) else None
+        return T.resolve_path(name)
+    return T.resolve_path(os.path.join(SOURCES, name))
 
 
 def locate(text, filename):

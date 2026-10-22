@@ -45,7 +45,7 @@ merge. `paragraphs.json` is the canonical text.
 
 | | size | what it is |
 |---|---|---|
-| `Commentaries/` | 81 MB | the 46 commentary texts, unchanged, with `commentary_names.json` |
+| `Commentaries/` | 92 MB | the 52 commentary texts, unchanged, with `commentary_names.json` |
 | `Kangyur/`, `Tengyur/`, `Sungbum/`, `རྗེ་ཙོང་ཁ་པ། ཡབ་སྲས། Sungbum/` | 964 MB | the rest of the archive — 2,388 files. Large on disk, **roughly 120 MB in the clone**: Tibetan text deflates about eight to one, and git stores it deflated |
 | `packs/` | 33 MB | **426 evidence packs**, one per paragraph — the thing that makes this work |
 | `build/canon.json` | 2.8 MB | where each paragraph's citations sit in the collections, precomputed — 2,966 locations across 275 of the 426 paragraphs |

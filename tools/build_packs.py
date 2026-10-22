@@ -36,7 +36,11 @@ import lemma as LM                                           # noqa: E402
 import outline as OL                                         # noqa: E402
 import pack as PK                                            # noqa: E402
 
-VIEWER = '/Users/tegchok/སྐབས་དང་པོ།-viewer/app/data/text.json'
+# The paragraph document now lives in the repo itself (paragraphs.json at the
+# repo root — same 'paragraphs' + 'toc' structure the viewer exported), so the
+# builder no longer depends on the Mac viewer's data directory.
+VIEWER = os.path.join(os.path.dirname(os.path.dirname(
+    os.path.abspath(__file__))), 'paragraphs.json')
 OUT = 'packs'
 # Budget, measured with the token counter rather than guessed: Tibetan runs at
 # ~1.2 tokens per character, so 16 passages at 900 characters is ~17K tokens and

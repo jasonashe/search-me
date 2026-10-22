@@ -23,6 +23,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import align as A                                            # noqa: E402
 import cocite as CC                                          # noqa: E402
 import shingle as S                                          # noqa: E402
+import tibetan as T                                          # noqa: E402
 import topical as X                                          # noqa: E402
 
 # Tibetan tokenises at about 1.2 tokens per character, so context is expensive:
@@ -32,7 +33,11 @@ import topical as X                                          # noqa: E402
 HALF = 700             # half-width of the context shown around a passage
 RRF_K = 20
 W_ALIGN, W_SIZE = 1.0, 0.3
-NAMES = json.load(open('Commentaries/commentary_names.json', encoding='utf-8'))
+# Catalogue keys are normalised once at load: a catalogue written in NFD form
+# must still match the NFC filenames the indexers return, and vice versa.
+NAMES = {T.norm_name(k): v for k, v in
+         json.load(open('Commentaries/commentary_names.json',
+                        encoding='utf-8')).items()}
 YIGCHA = 'རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན་_སྐབས་དང་པོའི་སྤྱི་དོན།.txt'
 
 
@@ -121,7 +126,8 @@ class Retrievers:
                 self.sizes.get(fn, 1e5) / 1e5) / RRF_K
 
         if exclude_self and x is not None:
-            for key in [k for k in acc if k[0] == YIGCHA]:
+            for key in [k for k in acc
+                        if T.norm_name(k[0]) == T.norm_name(YIGCHA)]:
                 if abs(origin[key] - x) < 4000:
                     del acc[key]
 
@@ -132,7 +138,7 @@ class Retrievers:
         for (fn, _), score in ordered[:top]:
             offset = origin[(fn, _)]
             text = self.source(fn)
-            meta = NAMES.get(fn, {})
+            meta = NAMES.get(T.norm_name(fn), {})
             start = max(0, offset - HALF // 3)
             out.append({
                 'file': fn,

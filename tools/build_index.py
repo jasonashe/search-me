@@ -92,7 +92,8 @@ def main():
     print(f'  subject index: {len(tw)} windows, {len(tp)} terms  '
           f'[{time.time() - t0:.0f}s]')
 
-    yig = open(os.path.join(COMM, YIGCHA), encoding='utf-8').read()
+    yig = open(T.resolve_path(os.path.join(COMM, YIGCHA)),
+               encoding='utf-8').read()
     offsets, exact = paragraph_offsets(yig, paras)
     json.dump({'paragraph_offsets': offsets},
               open(f'{OUT}/offsets.json', 'w', encoding='utf-8'),
@@ -103,7 +104,8 @@ def main():
     aligns = {}
     left = A.positions(yig)                    # computed once, not once per file
     for name in sorted(os.listdir(COMM)):
-        if not name.endswith('.txt') or name == YIGCHA:
+        if not name.endswith('.txt') or \
+                T.norm_name(name) == T.norm_name(YIGCHA):
             continue
         text = open(os.path.join(COMM, name), encoding='utf-8').read()
         al = A.build(yig, text, left=left)

@@ -39,12 +39,18 @@ def corpus(canon=False, only=None):
              if n.endswith('.txt')]
     if canon:
         for root in CANON:
+            # a root named in the other Unicode normal form still counts
+            root = T.resolve_path(root) or root
             if not os.path.isdir(root):
                 continue
             for dirpath, _, names in os.walk(root):
                 paths += [os.path.join(dirpath, n) for n in sorted(names)
                           if n.endswith('.txt')]
-    return [p for p in paths if not only or only in p]
+    if not only:
+        return paths
+    # the --in filter may be typed or pasted in NFD form; compare normalised
+    needle = T.norm_name(only)
+    return [p for p in paths if needle in T.norm_name(p)]
 
 
 def search(needle, only=None, min_syl=MIN_SYL, canon=False):

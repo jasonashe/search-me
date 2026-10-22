@@ -20,6 +20,7 @@ What it folds away, and why:
 character back to its offset in the original, so a hit found in folded space is
 always reported at a true offset in the real file.
 """
+import os
 import re
 import unicodedata
 
@@ -80,6 +81,44 @@ def syllables(text):
     if f[at:]:
         out.append((f[at:], index[at]))
     return out
+
+
+def norm_name(name):
+    """NFC-normalise a filename or path for comparison.
+
+    Data written on macOS (packs, quote files, catalogue keys) may carry
+    filenames in NFD form, while a checkout stores them NFC.  The two forms
+    are canonically the same name but byte-different, so a naive == or
+    os.path.exists() silently fails.  Names coming from data should be
+    compared through this — never renamed on disk to match.
+    """
+    return unicodedata.normalize('NFC', name)
+
+
+def resolve_path(path):
+    """The on-disk path for `path`, tolerating NFD/NFC mismatch, or None.
+
+    Returns `path` itself when it exists as given.  Otherwise walks it
+    component by component, matching each against the directory listing by
+    NFC-normalised comparison, and returns the path as it actually lies on
+    disk.  Renames nothing.
+    """
+    if os.path.exists(path):
+        return path
+    parts = [p for p in path.replace('\\', '/').split('/')
+             if p not in ('', '.')]
+    cur = ''
+    for part in parts:
+        try:
+            entries = os.listdir(cur or '.')
+        except OSError:
+            return None
+        match = next((e for e in entries
+                      if norm_name(e) == norm_name(part)), None)
+        if match is None:
+            return None
+        cur = os.path.join(cur, match) if cur else match
+    return cur if cur and os.path.exists(cur) else None
 
 
 def shingles(text, n=4):

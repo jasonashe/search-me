@@ -631,5 +631,17 @@
     "language": "tibetan",
     "attribution_confidence": "verified-from-text",
     "notes": "Added 2026-10-20 at the archive owner's request. A full English translation of this text was prepared from the same PDF in October 2026."
+  },
+  "རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག_མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་པའི་རྣམ་བཤད་ཚིག་དོན་རབ་གསལ.txt": {
+    "source_file": "BDRC W8473 (work WA0XLD0CF9E4DB258) — 1989 New Delhi facsimile reprint of the Lhasa blockprint, machine-transcribed in full for this archive (see text_info)",
+    "display_name": "རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག's མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་པའི་རྣམ་བཤད་ཚིག་དོན་རབ་གསལ།",
+    "author": "རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག",
+    "author_info": "Rongtön Sheja Kunrik (1367–1449), the Sakya master famed for his learning across all five sciences. His Abhisamayālaṃkāra commentary — universally known by its short title, the Rong Tik — became the standard against which later Tibetan readings of the Ornament define themselves: at Sera Jey, Jetsun Chökyi Gyaltsen's textbook is written largely as a sustained refutation of Rongtön's positions, so this is the principal opponent text for the སྐབས་དང་པོའི་སྤྱི་དོན། around which this archive is built.",
+    "title": "མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་པའི་རྣམ་བཤད་ཚིག་དོན་རབ་གསལ།",
+    "text_info": "Rongtön's word-commentary on the Abhisamayālaṃkāra, covering the first three chapters — the three knowledges (sarvākārajñatā, mārgajñatā, sarvajñatā); the remaining chapters are not treated. No Unicode etext of this work existed before: BDRC holds only the W8473 facsimile scan. This file is a first-pass machine transcription of that scan, made with Gemini 3.1 Pro in October 2026 (606 text pages, 435,286 characters); the === PAGE N === markers give the W8473 scan (PDF) page for every passage. QUALITY CAVEAT: the transcription is UNPROOFREAD — expect roughly 3% character error, and whole phrases can be silently omitted, the model's known failure mode. It is reliable for search and for locating passages, but no quotation should be taken from it without checking the passage against the W8473 scan itself.",
+    "tier": 5,
+    "tier_note": "Tier 5 — everything else.",
+    "language": "tibetan",
+    "attribution_confidence": "verified-from-text"
   }
 }

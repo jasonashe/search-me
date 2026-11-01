@@ -1,0 +1,3005 @@
+{
+ "title": "Referee ground truth v1 — atomic propositions from Purchok's Blo rig (S06857E4) via Napper's translation",
+ "semantics": "is_a: specific illustration subjects. pervasion: generic class subjects — 'whatever is <reason> is necessarily <predicate>'. Negative propositions evaluate as negations. Non-existent subjects: positive predicates false, negative predicates true.",
+ "argon_consultation_001_check": {
+  "note": "The six worked ontology facts in knowledge/argon_consultation_001.md were checked against the text: (1) prime cognizer don gcig its definition 'a new incontrovertible knower' — SUPPORTED (def at char 12385ff); Argon's wording 'newly and non-deceptively aware' is a paraphrase, Napper's rendering used instead. (2) conceptual / non-conceptual 'gal ba — SUPPORTED (threefold division). (3) direct perceiver mu gsum within non-conceptual, witness a consciousness seeing two moons — SUPPORTED (non-conceptual facsimile/wrong consciousness; cf. S25 here). (4) prime cognizer x direct perceiver mu bzhi — SUPPORTED (text's own pervasion statement at char 19369ff). (5) prime cognizer x conceptual mu bzhi — SUPPORTED by the same witnesses. (6) subsequent cognizer x direct perceiver mu bzhi — SUPPORTED. One correction to Argon: the definition 'that which is clear and knowing' is the text's definition of consciousness (shes pa); the definition of awareness (blo) itself is 'a knower' (rig pa)."
+ },
+ "nonexistent_subjects": [
+  "the horns of a rabbit",
+  "horns of a rabbit",
+  "a rabbit's horns",
+  "the son of a barren woman",
+  "a sky flower",
+  "a flower in the sky"
+ ],
+ "canonical_subjects": [
+  "the first moment of a sense direct perceiver apprehending a form",
+  "the second moment of a sense direct perceiver apprehending a form",
+  "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+  "the first moment of a clairvoyance knowing another's mind",
+  "the second moment of a clairvoyance knowing another's mind",
+  "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+  "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+  "the second moment of an inferential cognizer realizing sound to be impermanent",
+  "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+  "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+  "a thought apprehending sound as permanent",
+  "a thought apprehending the horns of a rabbit",
+  "a sense consciousness seeing snow mountains as blue",
+  "a sense consciousness seeing a white conch as yellow",
+  "doubt thinking sound is probably impermanent",
+  "doubt thinking sound is probably permanent",
+  "doubt wondering whether sound is permanent or impermanent",
+  "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+  "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+  "a dream consciousness clearly seeing the blue of a dream as blue",
+  "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+  "the second moment of an uninterrupted path of a path of seeing",
+  "the second moment of an omniscient exalted wisdom",
+  "a physical sense power",
+  "a sense consciousness seeing one moon as two",
+  "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+  "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer"
+ ],
+ "canonical_predicates": [
+  "awareness",
+  "awareness to which an object appears but is not ascertained",
+  "conceptual consciousness",
+  "conceptual wrong consciousness",
+  "consciousness",
+  "correctly assuming consciousness",
+  "direct perceiver",
+  "direct prime cognizer",
+  "doubt",
+  "facsimile of a direct perceiver",
+  "incontrovertible knower",
+  "inferential cognizer",
+  "inferential cognizer by the power of the fact",
+  "inferential cognizer through belief",
+  "inferential cognizer through renown",
+  "inferential prime cognizer",
+  "knower",
+  "knower that realizes what has already been realized",
+  "mental consciousness",
+  "mental direct perceiver",
+  "mistaken consciousness",
+  "new realizer",
+  "non-conceptual consciousness",
+  "non-conceptual non-mistaken consciousness",
+  "non-conceptual wrong consciousness",
+  "non-valid consciousness",
+  "object-possessor",
+  "person",
+  "prime cognizer",
+  "self-knower",
+  "self-knowing direct perceiver",
+  "sense consciousness",
+  "sense direct perceiver",
+  "subsequent cognizer",
+  "wrong consciousness",
+  "yogic direct perceiver",
+  "yogic direct prime cognizer"
+ ],
+ "is_a": [
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "sense direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "direct prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "non-valid consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "conceptual consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "wrong consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "incontrovertible knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a sense direct perceiver apprehending a form",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "sense direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "subsequent cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "direct prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "conceptual consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "wrong consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "incontrovertible knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the second moment of a sense direct perceiver apprehending a form",
+   "predicate": "new realizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "sense direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "direct prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "mental direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "direct prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a clairvoyance knowing another's mind",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "mental direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "subsequent cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the second moment of a clairvoyance knowing another's mind",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "self-knowing direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "self-knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "direct prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the first moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "self-knowing direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "self-knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "subsequent cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of a self-knowing direct perceiver experiencing an eye consciousness",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "subsequent cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "inferential cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "inferential prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "new realizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an inferential cognizer realizing sound to be impermanent",
+   "predicate": "incontrovertible knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "inferential cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "inferential prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "inferential cognizer by the power of the fact",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "incontrovertible knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing sound to be impermanent by the sign of being a product",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "inferential cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "inferential prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "inferential cognizer through renown",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "inferential cognizer by the power of the fact",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "an inferential cognizer realizing that the rabbit-possessor is suitable to be called 'moon'",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "doubt",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending sound as permanent",
+   "predicate": "mistaken consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a thought apprehending the horns of a rabbit",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "non-conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "sense consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "mistaken consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing snow mountains as blue",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "non-conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "sense consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "mistaken consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing a white conch as yellow",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably impermanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably impermanent",
+   "predicate": "doubt",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably impermanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably impermanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "doubt",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt thinking sound is probably permanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt wondering whether sound is permanent or impermanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt wondering whether sound is permanent or impermanent",
+   "predicate": "doubt",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt wondering whether sound is permanent or impermanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "doubt wondering whether sound is permanent or impermanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "correctly assuming consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "incontrovertible knower",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "correctly assuming consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "incontrovertible knower",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "an awareness apprehending sound as impermanent from the sign of being a product, without having settled that sound is a product or that whatever is a product is impermanent",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "non-conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "mental consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a dream consciousness clearly seeing the blue of a dream as blue",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "sense direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a sense direct perceiver apprehending blue that induces the doubt 'Did I see blue or not?'",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "subsequent cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "yogic direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an uninterrupted path of a path of seeing",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "yogic direct prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "the second moment of an omniscient exalted wisdom",
+   "predicate": "non-valid consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "subject": "a physical sense power",
+   "predicate": "awareness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "subject": "a physical sense power",
+   "predicate": "knower",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "subject": "a physical sense power",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "subject": "a physical sense power",
+   "predicate": "consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "non-conceptual wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "sense consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "a sense consciousness seeing one moon as two",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "mental direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "mental direct perceivers in the continua of ordinary beings apprehending the five objects",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "self-knowing direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "self-knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  },
+  {
+   "subject": "a self-knower in the continuum of a Nihilist experiencing an inferential cognizer as a valid cognizer",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   }
+  }
+ ],
+ "pervasions": [
+  {
+   "reason": "awareness",
+   "predicate": "knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness",
+    "quote_start": 10422,
+    "quote_end": 10442
+   }
+  },
+  {
+   "reason": "awareness",
+   "predicate": "consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness",
+    "quote_start": 10422,
+    "quote_end": 10442
+   }
+  },
+  {
+   "reason": "knower",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "awareness",
+    "quote_start": 10422,
+    "quote_end": 10442
+   }
+  },
+  {
+   "reason": "prime cognizer",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "reason": "prime cognizer",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "reason": "prime cognizer",
+   "predicate": "incontrovertible knower",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   }
+  },
+  {
+   "reason": "prime cognizer",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   },
+   "counterexample": "an inferential cognizer realizing sound to be impermanent by the sign of being a product"
+  },
+  {
+   "reason": "prime cognizer",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   },
+   "counterexample": "the first moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "subsequent cognizer",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "subsequent cognizer",
+   "predicate": "new realizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "subsequent cognizer",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "non_valid_consciousness",
+    "quote_start": 32081,
+    "quote_end": 32139
+   }
+  },
+  {
+   "reason": "subsequent cognizer",
+   "predicate": "knower that realizes what has already been realized",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   }
+  },
+  {
+   "reason": "subsequent cognizer",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32257,
+    "quote_end": 32305
+   },
+   "counterexample": "the second moment of an inferential cognizer realizing sound to be impermanent"
+  },
+  {
+   "reason": "incontrovertible knower",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "new realizer",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "prime_cognizer",
+    "quote_start": 12354,
+    "quote_end": 12393
+   },
+   "counterexample": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'"
+  },
+  {
+   "reason": "new realizer",
+   "predicate": "incontrovertible knower",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   },
+   "counterexample": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'"
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "direct prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "non-conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "direct_perceiver",
+    "quote_start": 12740,
+    "quote_end": 12801
+   }
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "direct_perceiver",
+    "quote_start": 12740,
+    "quote_end": 12801
+   }
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "conceptual consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "direct_perceiver",
+    "quote_start": 12740,
+    "quote_end": 12801
+   },
+   "counterexample": "the first moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "direct perceiver",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "direct_perceiver",
+    "quote_start": 12740,
+    "quote_end": 12801
+   },
+   "counterexample": "the first moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "sense direct perceiver",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   }
+  },
+  {
+   "reason": "mental direct perceiver",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "mental_direct_perceiver",
+    "quote_start": 13959,
+    "quote_end": 14112
+   }
+  },
+  {
+   "reason": "self-knowing direct perceiver",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "self_knowing_direct_perceiver",
+    "quote_start": 14513,
+    "quote_end": 14581
+   }
+  },
+  {
+   "reason": "yogic direct perceiver",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   }
+  },
+  {
+   "reason": "sense direct perceiver",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "sense_direct_perceiver",
+    "quote_start": 12962,
+    "quote_end": 13112
+   },
+   "counterexample": "the second moment of a sense direct perceiver apprehending a form"
+  },
+  {
+   "reason": "direct prime cognizer",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "direct_prime_cognizer",
+    "quote_start": 16138,
+    "quote_end": 16212
+   }
+  },
+  {
+   "reason": "direct prime cognizer",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "direct_prime_cognizer",
+    "quote_start": 16138,
+    "quote_end": 16212
+   }
+  },
+  {
+   "reason": "inferential cognizer",
+   "predicate": "prime cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer",
+   "predicate": "conceptual consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   },
+   "counterexample": "an inferential cognizer realizing sound to be impermanent by the sign of being a product"
+  },
+  {
+   "reason": "inferential cognizer through renown",
+   "predicate": "inferential cognizer by the power of the fact",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer through renown",
+   "predicate": "inferential cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer by the power of the fact",
+   "predicate": "inferential cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "inferential cognizer through belief",
+   "predicate": "inferential cognizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 18845,
+    "quote_end": 18957
+   }
+  },
+  {
+   "reason": "correctly assuming consciousness",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   },
+   "counterexample": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'"
+  },
+  {
+   "reason": "correctly assuming consciousness",
+   "predicate": "incontrovertible knower",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   },
+   "counterexample": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'"
+  },
+  {
+   "reason": "correctly assuming consciousness",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   },
+   "counterexample": "an awareness apprehending sound as impermanent in dependence on the mere words 'Sound is impermanent'"
+  },
+  {
+   "reason": "correctly assuming consciousness",
+   "predicate": "new realizer",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "correctly_assuming_consciousness",
+    "quote_start": 34472,
+    "quote_end": 34536
+   }
+  },
+  {
+   "reason": "doubt",
+   "predicate": "wrong consciousness",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   },
+   "counterexample": "doubt thinking sound is probably impermanent"
+  },
+  {
+   "reason": "doubt",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "doubt",
+    "quote_start": 40445,
+    "quote_end": 40505
+   },
+   "counterexample": "doubt thinking sound is probably impermanent"
+  },
+  {
+   "reason": "doubt",
+   "predicate": "non-valid consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "non_valid_consciousness",
+    "quote_start": 32081,
+    "quote_end": 32139
+   }
+  },
+  {
+   "reason": "wrong consciousness",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "reason": "wrong consciousness",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   },
+   "counterexample": "a thought apprehending sound as permanent"
+  },
+  {
+   "reason": "conceptual wrong consciousness",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "reason": "non-conceptual wrong consciousness",
+   "predicate": "wrong consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "wrong_consciousness",
+    "quote_start": 42164,
+    "quote_end": 42224
+   }
+  },
+  {
+   "reason": "non-conceptual wrong consciousness",
+   "predicate": "facsimile of a direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "nonconceptual_mistaken",
+    "quote_start": 45886,
+    "quote_end": 45976
+   }
+  },
+  {
+   "reason": "facsimile of a direct perceiver",
+   "predicate": "mistaken consciousness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "facsimile_of_direct_perceiver",
+    "quote_start": 17307,
+    "quote_end": 17368
+   }
+  },
+  {
+   "reason": "non-conceptual non-mistaken consciousness",
+   "predicate": "direct perceiver",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "nonconceptual_nonmistaken",
+    "quote_start": 45601,
+    "quote_end": 45701
+   }
+  },
+  {
+   "reason": "yogic direct perceiver",
+   "predicate": "awareness to which an object appears but is not ascertained",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "yogic_direct_perceiver",
+    "quote_start": 15133,
+    "quote_end": 15338
+   },
+   "counterexample": "the second moment of an uninterrupted path of a path of seeing"
+  },
+  {
+   "reason": "awareness",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness",
+    "quote_start": 10422,
+    "quote_end": 10442
+   },
+   "counterexample": "a thought apprehending sound as permanent"
+  },
+  {
+   "reason": "awareness",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness",
+    "quote_start": 10422,
+    "quote_end": 10442
+   },
+   "counterexample": "an inferential cognizer realizing sound to be impermanent by the sign of being a product"
+  },
+  {
+   "reason": "person",
+   "predicate": "object-possessor",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "object_possessor",
+    "quote_start": 10048,
+    "quote_end": 10112
+   }
+  },
+  {
+   "reason": "awareness",
+   "predicate": "object-possessor",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "object_possessor",
+    "quote_start": 10048,
+    "quote_end": 10112
+   }
+  },
+  {
+   "reason": "conceptual consciousness",
+   "predicate": "awareness",
+   "value": true,
+   "anchor": {
+    "matrix_entry": "conceptual_consciousness",
+    "quote_start": 43184,
+    "quote_end": 43240
+   }
+  },
+  {
+   "reason": "conceptual consciousness",
+   "predicate": "direct perceiver",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "conceptual_consciousness",
+    "quote_start": 43184,
+    "quote_end": 43240
+   },
+   "counterexample": "a thought apprehending sound as permanent"
+  },
+  {
+   "reason": "awareness to which an object appears but is not ascertained",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   },
+   "counterexample": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound"
+  },
+  {
+   "reason": "awareness to which an object appears but is not ascertained",
+   "predicate": "subsequent cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "awareness_appears_not_ascertained",
+    "quote_start": 38015,
+    "quote_end": 38170
+   },
+   "counterexample": "a sense direct perceiver apprehending a form in the continuum of a person whose mind is especially attracted to a pleasant sound"
+  },
+  {
+   "reason": "inferential cognizer by the power of the fact",
+   "predicate": "inferential cognizer through renown",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "inferential_cognizer",
+    "quote_start": 34141,
+    "quote_end": 34387
+   }
+  },
+  {
+   "reason": "yogic direct perceiver",
+   "predicate": "prime cognizer",
+   "value": false,
+   "anchor": {
+    "matrix_entry": "subsequent_cognizer",
+    "quote_start": 32306,
+    "quote_end": 32411
+   },
+   "counterexample": "the second moment of an uninterrupted path of a path of seeing"
+  }
+ ],
+ "set_relations": [
+  {
+   "pair": [
+    "awareness (blo)",
+    "knower (rig pa)",
+    "consciousness (shes pa)"
+   ],
+   "relation": "don gcig — mutually inclusive / synonymous",
+   "anchor_start": 10474
+  },
+  {
+   "pair": [
+    "facsimile of a direct perceiver",
+    "mistaken consciousness"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 17369
+  },
+  {
+   "pair": [
+    "non-conceptual wrong consciousness",
+    "non-conceptual facsimile of a direct perceiver",
+    "consciousness with clear appearance of a non-existent"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 18756
+  },
+  {
+   "pair": [
+    "non-conceptual non-mistaken consciousness",
+    "direct perceiver"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 45702
+  },
+  {
+   "pair": [
+    "inferential cognizer",
+    "inferential valid cognizer",
+    "inference for oneself"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 20338,
+   "note": "Established in the text's debate at the terminological-divisions section."
+  },
+  {
+   "pair": [
+    "wrong thought (log rtog)",
+    "conceptual wrong consciousness"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 41250
+  },
+  {
+   "pair": [
+    "self",
+    "I",
+    "person",
+    "being"
+   ],
+   "relation": "don gcig — synonymous",
+   "anchor_start": 10267
+  },
+  {
+   "pair": [
+    "prime cognizer",
+    "non-valid consciousness"
+   ],
+   "relation": "'gal ba — mutually exclusive (contradictory by definition: newly incontrovertible vs not newly incontrovertible)",
+   "anchor_start": 32131
+  },
+  {
+   "pair": [
+    "prime cognizer",
+    "subsequent cognizer"
+   ],
+   "relation": "'gal ba — mutually exclusive: a prime cognizer is a new realizer; a subsequent cognizer realizes what has already been realized. The word 'new' in the definition of prime cognizer exists to eliminate subsequent cognizers.",
+   "anchor_start": 12401
+  },
+  {
+   "pair": [
+    "direct perceiver",
+    "conceptual consciousness"
+   ],
+   "relation": "'gal ba — mutually exclusive: a direct perceiver is by definition free from conceptuality.",
+   "anchor_start": 12793
+  },
+  {
+   "pair": [
+    "conceptual consciousness",
+    "non-conceptual consciousness"
+   ],
+   "relation": "'gal ba — mutually exclusive (the threefold division)",
+   "anchor_start": 43153
+  },
+  {
+   "pair": [
+    "sense direct perceiver",
+    "direct perceiver",
+    "awareness"
+   ],
+   "relation": "mu gsum — three-corner: sense direct perceiver is pervaded by direct perceiver, direct perceiver by awareness; neither converse holds (a mental direct perceiver is not a sense direct perceiver; an inferential cognizer is an awareness but not a direct perceiver).",
+   "anchor_start": 12793
+  },
+  {
+   "pair": [
+    "inferential cognizer through renown",
+    "inferential cognizer by the power of the fact"
+   ],
+   "relation": "mu gsum — three-corner: whatever is an inferential cognizer through renown is necessarily an inferential cognizer by the power of the fact, but not conversely.",
+   "anchor_start": 19369
+  },
+  {
+   "pair": [
+    "direct perceiver",
+    "prime cognizer"
+   ],
+   "relation": "mu bzhi — four-corner: both = a direct prime cognizer (e.g., first moment of a sense direct perceiver apprehending form); direct perceiver only = second moment of a sense direct perceiver; prime cognizer only = an inferential cognizer; neither = a wrong consciousness.",
+   "anchor_start": 19369
+  },
+  {
+   "pair": [
+    "direct perceiver",
+    "subsequent cognizer"
+   ],
+   "relation": "mu bzhi — four-corner: both = second moment of a sense direct perceiver; direct perceiver only = its first moment; subsequent cognizer only = second moment of an inferential cognizer; neither = a correctly assuming consciousness.",
+   "anchor_start": 32297
+  },
+  {
+   "pair": [
+    "doubt",
+    "wrong consciousness"
+   ],
+   "relation": "mu bzhi — four-corner: both = doubt thinking sound is probably permanent (a conceptual wrong consciousness); doubt only = doubt tending toward the factual; wrong only = a thought apprehending sound as permanent; neither = a prime cognizer. The text explicitly refutes the claim that the two are contradictory, citing Khedrup.",
+   "anchor_start": 40497
+  },
+  {
+   "pair": [
+    "awareness to which an object appears but is not ascertained",
+    "direct perceiver"
+   ],
+   "relation": "overlap attested on three corners in this text: both = e.g. a sense direct perceiver apprehending form while the mind is attracted to a pleasant sound; direct perceiver only = a direct prime cognizer (it necessarily induces ascertainment regarding its object per the text's reply); the text gives NO illustration of an awareness to which an object appears but is not ascertained that is not a direct perceiver — the fourth corner is not posited here.",
+   "anchor_start": 37969
+  }
+ ],
+ "fault_lines": [
+  {
+   "id": "FL_01",
+   "status": "CONTESTED",
+   "name": "Mental-perception definition completeness (tshig zin vs skabs thob)",
+   "branches": {
+    "A": "LITERAL_3LIMB — the worded definiens (mental-faculty-arisen, direct, prime) suffices to classify as a mental direct perceiver / mental direct prime cognizer",
+    "B": "CONTEXTUAL_4LIMB — the worded limbs do not suffice; the other-knower limb, thrown in by force of context, is also required"
+   },
+   "parameterized_pervasions": [
+    {
+     "form": "[faculty-description] -> mental direct perceiver / mental direct prime cognizer",
+     "value_if_A": true,
+     "value_if_B": false
+    },
+    {
+     "form": "mental direct perceiver -> not self-knower",
+     "value_if_A": false,
+     "value_if_B": true
+    }
+   ],
+   "note": "Detection patterns live in referee.py Facts.fault_line_pervasion (referee v1.6, Argon consultations 006/007)."
+  },
+  {
+   "id": "FL_02",
+   "status": "CONTESTED",
+   "name": "Unmixed-ascertainment bridge (d003 assembled sign)",
+   "branches": {
+    "A": "KHEDRUP_JETSUN_VERSE — ascertaining a conditioned thing unmixedly pervades ascertaining it as arisen (the half-verse reading)",
+    "B": "PURCHOK_ENGAGEMENT_QUALIFIER — no such pervasion: the moment is an appearing object, not an engagement object ascertained as arisen (blo rig 247432)"
+   },
+   "parameterized_pervasions": [
+    {
+     "form": "[ascertains ... unmixedly] -> [ascertains as arisen ...]",
+     "value_if_A": true,
+     "value_if_B": false
+    }
+   ],
+   "note": "Detection patterns live in referee.py Facts.fault_line_pervasion (referee v1.6)."
+  },
+  {
+   "id": "FL_03",
+   "status": "SILENT_DOCTRINAL",
+   "name": "Uncommon dominant condition (faculty) of a self-knower",
+   "branches": {
+    "A": "NO_FACULTY_POSITED — Purchok states neither a mental-faculty nor a sense-faculty dominant condition for a self-knower (dossier d001: 'not stated by Purbuchok'); denials demanding proof are fidelity-correct",
+    "B": "CONCEDED_BY_LEDGER — binding only if a player voluntarily Accepts the atom categorically; ledger entailment then governs it"
+   },
+   "parameterized_atoms": [
+    {
+     "form": "[self-knower subject] is [not] an awareness arisen in dependence on the mental faculty as its uncommon dominant condition"
+    }
+   ],
+   "note": "Detection pattern lives in referee.py Facts.fault_line_atom (referee v1.6). No is_a facts are added for this atom — the ground-truth discipline forbids it."
+  }
+ ]
+}
